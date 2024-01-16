@@ -1,4 +1,4 @@
-# Docker-MYSQL-hands-on
+# Docker-MySQL-hands-on
 ## コンテナ起動・確認  
 - コンテナ起動
 ```sh
